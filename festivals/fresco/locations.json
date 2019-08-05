@@ -3,7 +3,7 @@
     {"name":"Children’s Village","latitude":52.4784,"longitude":-0.9200},
     {"name":"Church Square","latitude":52.478705,"longitude":-0.921588},
     {"name":"NotKnown","latitude":52.478705,"longitude":-0.921588},
-    {"name":"Loop 1", "points" :
+    {"name":"Around Town", "points" :
         [ {"latitude":52.479548,"longitude":-0.922694},
           {"latitude":52.478951,"longitude":-0.922201},
           {"latitude":52.478603,"longitude":-0.921881},
