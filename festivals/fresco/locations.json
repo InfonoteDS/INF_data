@@ -1,15 +1,9 @@
-[{"name":"Square","latitude":52.477565,"longitude":-0.920562},
-    {"name":"Library","latitude":52.478488,"longitude":-0.920091},
-    {"name":"Children’s Village","latitude":52.4784,"longitude":-0.9200},
-    {"name":"Church Square","latitude":52.478705,"longitude":-0.921588},
-    {"name":"NotKnown","latitude":52.478705,"longitude":-0.921588},
-    {"name":"Around Town", "points" :
-        [ {"latitude":52.479548,"longitude":-0.922694},
-          {"latitude":52.478951,"longitude":-0.922201},
-          {"latitude":52.478603,"longitude":-0.921881},
-          {"latitude":52.478752,"longitude":-0.921487},
-          {"latitude":52.479155,"longitude":-0.921885},
-        {"latitude":52.479356,"longitude":-0.92219},
-        {"latitude":52.479548,"longitude":-0.922694}]
-        
-    }]
+[{"Name":"The Square","Latitude":52.477565,"Longitude":-0.920562,"Radius":null},
+{"Name":"The Church","Latitude":52.478493,"Longitude":-0.921687,"Radius":null},
+{"Name":"Joules","Latitude":52.479619,"Longitude":-0.922572,"Radius":null},
+{"Name":"Church Street Junction","Latitude":52.478745,"Longitude":-0.921534,"Radius":null},
+{"Name":"Grammar School (rear)","Latitude":52.478467,"Longitude":-0.920958,"Radius":null},
+{"Name":"Children’s Village/Memorial Gardens","Latitude":52.477093,"Longitude":-0.920180,"Radius":null},
+{"Name":"Walkabout North","Latitude":52.478977,"Longitude":-0.922283,"Radius":50},
+{"Name":"Walkabout South","Latitude":52.477938,"Longitude":-0.920842,"Radius":50},
+{"Name":"Walkabout Centre","Latitude":52.478279,"Longitude":-0.921531,"Radius":50}]
