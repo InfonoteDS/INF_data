@@ -1,0 +1,24 @@
+{
+   "user" : {
+       "name" : "",
+       "password" : "",
+   },
+    "app" : {
+        "stationNumber" : "01858617716",
+        "hasMultiStation" : false,
+        "backgroundColor" : "#00324F",
+        "foregroundColor" : "#DDDDEE",
+        
+        "barColor" : "#00324F",
+        "barIconColor" : "#DDDDDD",
+        "website" : "https://www.infonote.com/",
+        "podcastURL" : "https://podcasts.files.bbci.co.uk/p04b1g3c.rss",
+        "about" : "<p>This is custom blurb.</p> <p>The radio station can put whatever it wants in here - except quotes.</p>",
+        "sponsor" : {
+            "logo" : "imageurl",
+            "website" : "https://www.amazon.com",
+            "name" : "The mighty Amazon"
+        }
+    }
+}
+
