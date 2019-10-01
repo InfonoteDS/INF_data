@@ -1,31 +1,29 @@
 {
-   "user" : {
-       "name" : "HFMApp",
-       "password" : "h4rb0r0ugh",
-
-      "station" : {
-          "info" : "not defined - hfm is an older station",
-          "name" : "HFM"
-      }
-   },
-    "app" : {
-        "stationNumber" : "01858464666",
-        "hasMultiStation" : false,
-        "backgroundColor" : "#FFFFFF",
-        "foregroundColor" : "#333333",
-
-        "barColor" : "#942A2B",
-        "barIconColor" : "#F8F1F1",
-
-        "podcastURL" : "http://feeds.feedburner.com/yarniacs.rss",
-        "about" : "<p>This is custom blurb.</p> <p>The radio station can put whatever it wants in here - except quotes.</p>",
-        "sponsor" : {
-            "logo" : "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/02/AMAZON-1200x537.png",
-            "website" : "https://www.amazon.com",
-            "name" : "Amazon"
+    "active" : false,
+    "stationNumber" : "01858464666",
+    "hasMultiStation" : false,
+    "backgroundColor" : "#FFFFFF",
+    "foregroundColor" : "#333333",
+    
+    "barColor" : "#942A2B",
+    "barIconColor" : "#F8F1F1",
+    
+    "podcastURL" : "http://feeds.feedburner.com/yarniacs.rss",
+    "about" : "<p>This is custom blurb.</p> <p>The radio station can put whatever it wants in here - except quotes.</p>",
+    "sponsor" : {
+        "logo" : "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/02/AMAZON-1200x537.png",
+        "website" : "https://www.amazon.com",
+        "name" : "Amazon"
+    },
+    "streams" : [
+        {
+            "streamURL" : "http://tx.sharp-stream.com/icecast.php?i=harboroughfm.mp3",
+            "twitterURL" : " hfmnews",
+            "stationName" : "HFM",
+            "email" : "studio@harboroughfm.co.uk"
         }
-
-
-    }
+    ]
+    
+    
 }
 
