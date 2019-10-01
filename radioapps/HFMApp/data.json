@@ -18,7 +18,7 @@
     "streams" : [
         {
             "streamURL" : "http://tx.sharp-stream.com/icecast.php?i=harboroughfm.mp3",
-            "twitterURL" : " hfmnews",
+            "twitterURL" : "hfmnews",
             "stationName" : "HFM",
             "email" : "studio@harboroughfm.co.uk"
         }
