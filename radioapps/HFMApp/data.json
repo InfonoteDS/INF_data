@@ -9,7 +9,7 @@
     "barIconColor" : "#F8F1F1",
     
     "podcastURL" : "http://crapfeeds.feedburner.com/yarniacs.rss",
-    "about" : "<p>This is custom blurb. <a href="https://www.infonote.com>InfonoteTest Link"</a></p> <p>The radio station can put whatever it wants in here - except quotes.</p>",
+    "about" : "<p>This is custom blurb. <a href='https://www.infonote.com>InfonoteTest Link'</a></p> <p>The radio station can put whatever it wants in here - except quotes.</p>",
     "sponsor" : {
         "logo" : "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/02/AMAZON-1200x537.png",
         "website" : "https://www.amazon.com",
