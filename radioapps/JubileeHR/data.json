@@ -1,0 +1,24 @@
+{
+    "active" : true,
+    "stationNumber" : "01481700400",
+    "hasMultiStation" : false,
+    "backgroundColor" : "#FFFFFF",
+    "foregroundColor" : "#333333",
+    
+    "barColor" : "#942A2B",
+    "barIconColor" : "#F8F1F1",
+    "sponsor" : {
+        "logo" : "https://bitbucket.org/infonote/bucket/raw/master/radioapps/JubileeHR/sponsor.png",
+        "website" : "https://www.homejames.gg",
+        "name" : "Home James"
+    },
+
+    "streams" : [
+        {
+            "streamURL" : "http://s4.xrad.io:8056",
+            "twitterURL" : "JubileeRadio",
+            "stationName" : "Jubilee Hospital Radio",
+            "email" : "studio@jubileeradio.org"
+        }
+    ]
+}
