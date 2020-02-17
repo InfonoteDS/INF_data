@@ -1,0 +1,19 @@
+{
+    "active" : false,
+    "stationNumber" : "01418897396",
+    "hasMultiStation" : false,
+    "backgroundColor" : "#FFFFFF",
+    "foregroundColor" : "#933732",
+    
+    "barColor" : "#933732",
+    "barIconColor" : "#ffffff",
+
+    "streams" : [
+        {
+            "streamURL" : "http://radio.canstream.co.uk:8123/live.mp3",
+            "twitterURL" : "PaisleyFM",
+            "stationName" : "Paisley FM 107.5",
+            "email" : "studio@paisleyfm.co.uk"
+        }
+    ]
+}
