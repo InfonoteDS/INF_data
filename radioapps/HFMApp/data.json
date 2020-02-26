@@ -8,6 +8,15 @@
     "barColor" : "#942A2B",
     "barIconColor" : "#F8F1F1",
     
+    "podcastURLNOTSET" : "http://themissionhq.libsyn.com/rss",
+    "aboutNOTSET" : "<p>This is custom blurb.</p> <p>The radio station can put whatever it wants in here - except quotes.</p>",
+    "sponsor" : {
+        "logo" : "https://bitbucket.org/infonote/bucket/raw/master/radioapps/HFMApp/sponsor.jpg",
+        "website" : "https://mhbs.co.uk/",
+        "name" : "Market Harborough Building Society",
+        "title" : "Your Local Building Society...",
+        "bannerColor" : "#C30044"
+    },
     "streams" : [
         {
             "streamURL" : "http://tx.sharp-stream.com/icecast.php?i=harboroughfm.mp3",
