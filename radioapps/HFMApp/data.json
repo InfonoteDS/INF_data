@@ -11,7 +11,7 @@
     "podcastURLNOTSET" : "http://themissionhq.libsyn.com/rss",
     "aboutNOTSET" : "<p>This is custom blurb.</p> <p>The radio station can put whatever it wants in here - except quotes.</p>",
     "sponsor" : {
-        "logo" : "https://bitbucket.org/infonote/bucket/raw/master/radioapps/HFMApp/sponsor.jpg",
+        "logo" : "https://ids.infonote.com/RadioService/radioapps/HFMApp/sponsor.jpg",
         "website" : "https://mhbs.co.uk/",
         "name" : "Market Harborough Building Society",
         "title" : "Your Local Building Society...",
