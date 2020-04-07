@@ -1,0 +1,19 @@
+{
+    "active" : true,
+    "stationNumber" : "01795874422",
+    "hasMultiStation" : false,
+    "backgroundColor" : "#FFFFFF",
+    "foregroundColor" : "#333333",
+    
+    "barColor" : "#942A2B",
+    "barIconColor" : "#F8F1F1",
+    
+    "streams" : [
+        {
+            "streamURL" : "https://mediacp.nkpa.co.uk/stream/brfm/BRFM",
+            "twitterURL" : "956brfm",
+            "stationName" : "BRFM",
+            "email" : "studio@brfm.net"
+        }
+    ]
+}
