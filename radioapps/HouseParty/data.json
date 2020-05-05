@@ -1,0 +1,22 @@
+{
+    "active" : true,
+    "stationNumber" : "",
+    "hasMultiStation" : false,
+    "backgroundColor" : "#FFFFFF",
+    "foregroundColor" : "#333333",
+    
+    "barColor" : "#666666",
+    "barIconColor" : "#bbbbbb",
+    "about" : "<p>House Party Radio is the latest venture that has been created from an existing radio show that has been on air for over 15 years. On 5 radio stations across the UK, the House Party is broadcasted and mixed up by Johnny Bee.</p> <p>Then in 2018 the idea of opening an online radio station came alive which was a follow-on from the radio show House Party that we called the station House Party Radio playing all the biggest remixes that we have played over the years and some of the biggest old skool classics.</p><p>In August 2019 the station started broadcasting online as a stream to friends and family which give us an idea how we wanted the station to sound and in November 2019 the station started broadcasting public with some big-name DJs and also playing some massive remixes for you guys to listen to and we hope you really enjoy the station.</p>",
+
+    "streams" : [
+        {
+            "oldstreamURL" : "http://92.232.224.251:8000/stream",
+            "streamURL" : "http://162.244.80.106:11482/stream",
+            "twitterURL" : "",
+            "stationName" : "House Party Radio",
+            "email" : "studio@housepartyradio.net"
+        }
+    ]
+}
+
