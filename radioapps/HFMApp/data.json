@@ -19,7 +19,8 @@
     },
     "streams" : [
         {
-            "streamURL" : "http://icecast.maxxwave.co.uk/hfmhq",
+            "streamURL" : "http://tx.sharp-stream.com/icecast.php?i=harboroughfm.mp3",
+            "streamURLold" : "http://icecast.maxxwave.co.uk/hfmhq",
             "twitterURL" : "hfmnews",
             "stationName" : "HFM",
             "email" : "studio@harboroughfm.co.uk"
