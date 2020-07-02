@@ -1,0 +1,27 @@
+{
+    "active" : true,
+    "stationNumber" : "01925555110",
+    "hasMultiStation" : false,
+    "backgroundColor" : "#FFFFFF",
+    "foregroundColor" : "#382D82",
+
+    "barColor" : "#382D82",
+    "barIconColor" : "#F4E10A",
+    "sponsor" : {
+        "logo" : "https://ids.infonote.com/RadioService/radioapps/Warrington/sponsor.jpg",
+        "website" : "https://culturewarrington.org",
+        "name" : "Culture Warrington",
+        "title" : "Sponsored by Culture Warrington"
+    },
+
+
+    "streams" : [
+        {
+            "streamURL" : "http://stream.dnsgb.net:8002",
+            "twitterURL" : "radiowarrington",
+            "stationName" : "Radio Warrington",
+            "email" : "onair@radiowarrington.co.uk"
+        }
+    ]
+}
+
