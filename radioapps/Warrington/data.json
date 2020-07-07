@@ -11,7 +11,8 @@
         "logo" : "https://ids.infonote.com/RadioService/radioapps/Warrington/sponsor.png",
         "website" : "https://culturewarrington.org",
         "name" : "Culture Warrington",
-        "title" : "Sponsored by"
+        "title" : "Sponsored by",
+        "bannerColor" : "#2D0F43"
     },
 
 
