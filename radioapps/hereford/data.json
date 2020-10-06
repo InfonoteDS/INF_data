@@ -1,0 +1,29 @@
+{
+    "active" : true,
+    "stationNumber" : "01432233033",
+    "hasMultiStation" : false,
+    "backgroundColor" : "#FFFFFF",
+    "foregroundColor" : "#27458E",
+    "donationsURL" : "https://www.justgiving.com/herefordhospitalradio",
+    
+    "barColor" : "#27458E",
+    "barIconColor" : "#F1F1F8",
+    
+    "sponsor" : {
+        "logo" : "https://ids.infonote.com/RadioService/radioapps/hereford/sponsor.jpg",
+        "website" : "www.herefordlions.com",
+        "name" : "Hereford Lions Club",
+        "title" : "Hereford Lions Club"
+    },
+    "about" : "<P>Hereford Hospital Radio has been broadcasting since 1972, following a project set up by the Herefordshire County Youth Service and Hereford Lions Club.  Over the years the station has been heard at many of the Herefordshire hospitals but now focuses its broadcasts at the County Hospital, where it has its studios.</P><P>Each year volunteers from the station attend many events around the county raising funds to keep the station on the air. Our volunteers efforts provide the majority of the funds to keep the station on the air.</P>",
+    "streams" : [
+        {
+            "streamURL" : "http://webradio.radiomonitor.com/stream/HHR",
+            "stationName" : "Hereford HR",
+            "stationAppName" : "Hereford HR",
+	    "twitterURL" : "herefordhradio",
+            "email" : "app@hhr.org.uk"
+        }
+    ]
+}
+

@@ -1,0 +1,22 @@
+{
+    "active" : true,
+    "stationNumber" : "07459906822",
+    "hasMultiStation" : false,
+    "backgroundColor" : "#000000",
+    "foregroundColor" : "#F3EE4F",
+    
+    "barColor" : "#F3EE4F",
+    "barIconColor" : "#000000",
+    
+    "about" : "<P>Jambo! Radio is the only radio station for the people of African and Caribbean heritage in Scotland that makes broadcast programmes in multiple languages which are commonly spoken by people of African and Caribbean heritage.</P><P>We bring the communities together with a series of engaging, dialogue and conversational-based radio shows throughout the week and plays exclusive African and Caribbean music.  We broadcast in Swahili, Pidgin, Igbo, Yoruba, French, Madenga and Lingala.</P>",
+    "streams" : [
+        {
+            "streamURL" : "https://radio.canstream.co.uk:9129/live.mp3",
+            "stationName" : "Jambo! Radio",
+            "stationAppName" : "Jambo Radio",
+	    "twitterURL" : "JamboRadio1",
+            "email" : "info@jamboradio.co.uk"
+        }
+    ]
+}
+
