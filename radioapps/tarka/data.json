@@ -1,0 +1,29 @@
+{
+    "active" : true,
+    "stationNumber" : "07801038241",
+    "hasMultiStation" : false,
+    "backgroundColor" : "#FFFFFF",
+    "foregroundColor" : "#000000",
+    
+    "barColor1" : "#1D2DCE",
+    "barColor" : "#0000FF",
+    "barIconColor" : "#F1F1F8",
+    
+    "sponsor" : {
+        "logo" : "https://ids.infonote.com/RadioService/radioapps/tarka/sponsor.jpg",
+        "website" : "https://www.tawsa.co.uk/",
+        "name" : "Safety Supplies Direct",
+        "title" : "Safety Supplies Direct"
+    },
+    "about" : "<P>Tarka Radio was founded in 1981 by a group of volunteers to provide a personalised radio service for the patients of the North Devon District Hospital. To this day the station is run and operated entirely by volunteers and is completely self financing. Tarka Radio is not run or funded by the hospital, Northern Devon Healthcare Trust or by the NHS but by its team of volunteers independently of the hospital although we obviously maintain a close liaison with the hospital management to ensure that we continue to work together for the benefit of the patients.  Tarka Radio is a registered charity and the station is financed entirely by the fund raising activities of its members and supporters.</P><P>The station is managed and operated by a team of volunteers who work for the benefit of the patients 52 weeks a year producing and presenting programmes in addition to the running of the station, administration, fundraising etc.</P><P> Whilst clearly there are other radio stations to listen to, Tarka Radio is run to give that personal touch and to prioritise patients' requests and dedications to make their stay in hospital that bit more bearable and to provide them with entertainment and information during their stay at NDDH. The stations programmes include specialised music including classic golden oldies from the 50s to the present day, country, classical, jazz, songs from the shows and easy listening to list just a few.</P>",
+    "streams" : [
+        {
+            "streamURL" : "http://uk3-vn.mixstream.net:8088/listen.mp3",
+            "stationName" : "Tarka Radio",
+            "stationAppName" : "Tarka Radio",
+	    "twitterURL" : "tarkaradio",
+            "email" : "requests@tarkaradio.co.uk"
+        }
+    ]
+}
+
