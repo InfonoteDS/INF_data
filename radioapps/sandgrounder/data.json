@@ -1,0 +1,23 @@
+{
+    "active" : false,
+    "stationNumber" : "01704536283",
+    "hasMultiStation" : false,
+    "backgroundColor" : "#FFFFFF",
+    "foregroundColor" : "#001EA8",
+    
+    "barColor" : "#001EA8",
+    "barIconColor" : "#ffffff",
+    "about" : "Local radio station for Southport, Sefton and The Liverpool City Region, playing The Best Music Variety.",
+
+    "streams" : [
+        {
+            "streamOrigURL" : "https://s1.rss-streaming.co.uk:3389/start/sand",
+            "streamURL" : "http://rss-streaming.co.uk/proxy/sand?mp=/stream",
+            "twitterURL" : "sandgrounderdab",
+            "stationName" : "SandgrounderRadio",
+            "stationAppName" : "Sandgrounder Local Radio",
+            "email" : "studio@sandgrounderradio.co.uk"
+        }
+    ]
+}
+
