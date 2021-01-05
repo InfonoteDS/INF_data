@@ -1,5 +1,5 @@
 {
-    "active" : false,
+    "active" : true,
     "stationNumber" : "01704536283",
     "hasMultiStation" : false,
     "backgroundColor" : "#FFFFFF",
@@ -12,7 +12,7 @@
     "streams" : [
         {
             "streamOrigURL" : "https://s1.rss-streaming.co.uk:3389/start/sand",
-            "streamURL" : "http://rss-streaming.co.uk/proxy/sand?mp=/stream",
+            "streamURL" : "http://playoutonestreaming.com:8038/stream",
             "twitterURL" : "sandgrounderdab",
             "stationName" : "SandgrounderRadio",
             "stationAppName" : "Sandgrounder Local Radio",
