@@ -1,0 +1,29 @@
+{
+    "active" : true,
+    "stationNumber" : "01389888137",
+    "hasMultiStation" : false,
+    "backgroundColor" : "#FFFFFF",
+    "foregroundColor" : "#6F81B9",
+    
+    "barColor" : "#6F81B9",
+    "barIconColor" : "#FFFFFF",
+    "sponsor" : {
+        "logo" : "https://ids.infonote.com/RadioService/radioapps/river/argyll.jpg",
+        "website" : "http://houseofargyll.com/",
+        "name" : "House Of Argyll",
+        "title" : "Scotland's Premier Kiltmakers"
+    },
+
+    
+    "about" : "<P>River Radio is a grass-roots movement to give people in the local community a voice. MUSIC: What is a station without music! Our volunteers come from a wide range of music interests and ages, Our plan is to have a little something for everyone.  SUPPORT: Our overall goal is to support the local community and be the next voice for Alexandia and surrounding areas! Live and Local 24/7 </P>",
+    "streams" : [
+        {
+            "streamURL" : "https://s4.radio.co/s7d3ee0b08/listen",
+            "stationName" : "River Radio",
+            "stationAppName" : "River Radio",
+	    "twitterURL" : "",
+            "email" : "studio@riverradio.uk"
+        }
+    ]
+}
+
