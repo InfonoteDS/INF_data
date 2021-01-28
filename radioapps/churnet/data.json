@@ -11,7 +11,9 @@
     "about" : "<P>Local radio for the Staffordshire Moorlands. We are a non-for-profit online radio station. letting the Moorlands hear their favourite songs and all the latest local news. 100% local. Made local, by locals, for locals. Alongside creating an excellent service which enables community groups to spread their message one of our main aims is to combat social isolation among rural communities.</P>",
     "streams" : [
         {
-            "streamURL" : "http://46.28.49.164:7592/stream",
+            "streamURL" : "https://stream.galaxywebsolutions.com/proxy/pwddisco?mp=/stream",
+
+            "streamURLnew" : "http://46.28.49.164:7592/stream",
             "stationName" : "Churnet Sound",
             "stationAppName" : "Churnet Sound",
 	    "twitterURL" : "ChurnetSound",
