@@ -11,11 +11,10 @@
     "podcastURLNOTSET" : "http://themissionhq.libsyn.com/rss",
     "aboutNOTSET" : "<p>This is custom blurb.</p> <p>The radio station can put whatever it wants in here - except quotes.</p>",
     "sponsor" : {
-        "logo" : "https://ids.infonote.com/RadioService/radioapps/HFMApp/sponsor.jpg",
-        "website" : "https://mhbs.co.uk/",
-        "name" : "Market Harborough Building Society",
-        "title" : "Your Local Building Society...",
-        "bannerColor" : "#C30044"
+        "logo" : "https://ids.infonote.com/RadioService/radioapps/HFMApp/sponsor1.jpg",
+        "website" : "https://www.spectrumhealthregister.co.uk/",
+        "name" : "Spectrum Health",
+        "title" : "Accepting new NHS patients..."
     },
     "streams" : [
         {
