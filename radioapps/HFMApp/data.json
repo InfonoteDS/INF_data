@@ -9,7 +9,7 @@
     "barIconColor" : "#F8F1F1",
     
     "podcastURLNOTSET" : "http://themissionhq.libsyn.com/rss",
-    "aboutNOTSET" : "<p>This is custom blurb.</p> <p>The radio station can put whatever it wants in here - except quotes.</p>",
+    "about" : "<p>Hfm is the truly local radio station for Market Harborough, South Leicestershire and North Northants.</p><p>We play great music and provide essential local news and community information.</p><p>Hfm is Proud To Be local!</p>",
     "sponsor" : {
         "logo" : "https://ids.infonote.com/RadioService/radioapps/HFMApp/sponsor1.jpg",
         "website" : "https://www.spectrumhealthregister.co.uk/",
