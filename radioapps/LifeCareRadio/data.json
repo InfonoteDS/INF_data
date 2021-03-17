@@ -1,0 +1,26 @@
+{
+    "active" : true,
+    "stationNumber" : "01803863005",
+    "hasMultiStation" : false,
+    "backgroundColor" : "#FFFFFF",
+    "foregroundColor" : "#333333",
+    
+    "barColor" : "#6812C6",
+    "barIconColor" : "#F8F8F8",
+    
+    "about" : "<p>Life Care Radio is a registered charity radio station that broadcasts to nursing and residential homes and people in their own homes who receive long term care.</p><p>We are members of the Hospital Broadcasting Association and, like many Hospital Radio stations, we play requests and dedications.</p><p>If we bring a smile to someone's face, then we're doing our job. Everyone at Life Care Radio is a volunteer and no-one gets paid.</p><p>We do it because we know that music can have a positive effect on mood and on those with dementia. Everyone has a song that means something to them and her at Life Care Radio, we love playing those songs and talking about them. We hope that you enjoy listening to our shows and invite you to get in touch.</p><p>We would also like to thank Babbacombe and St Marychurch Lions club for sponsoring this app.</p>",
+    "sponsor" : {
+        "logo" : "https://ids.infonote.com/RadioService/radioapps/LifeCareRadio/lionsapp.png",
+        "website" : "http://www.lions105sw.org.uk/bbsm/",
+        "name" : "Babbacombe and St Marychurch Lions Club"
+    },
+    "streams" : [
+        {
+            "streamURL" : "http://streaming.broadcastradio.com:10020/lifecare",
+            "twitterURL" : "LifeCareRadio",
+            "stationName" : "Life Care Radio",
+            "email" : "studio@lifecareradio.org.uk"
+        }
+    ]
+}
+
