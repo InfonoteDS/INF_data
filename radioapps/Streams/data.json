@@ -1,0 +1,25 @@
+{
+    "active" : true,
+    "stationNumber" : "01865225522",
+    "hasMultiStation" : false,
+    "backgroundColor" : "#FFFFFF",
+    "foregroundColor" : "#333333",
+    "website" : "https://www.radiocherwell.com",
+    "donationsURL" : "https://uk.virginmoneygiving.com/donation-web/charity?charityId=1016603&stop_mobi=yes",
+    
+    "barColor" : "#ED1E24",
+    "barIconColor" : "#FDF2F1",
+
+    "about" : "<h2>Hospital Radio in Oxford</h2><p>Radio Cherwell broadcasts 24 hours a day, 7 days a week to the patients in the Churchill and John Radcliffe Hospitals, as well as the Nuffield Orthopaedic Centre. We also broadcast special request programmes to some care homes in Oxfordshire, and our output can be heard around the world, via our website and this App.</p><p>Our programmes are diverse and we aim to suit the tastes of most people. Music-based shows cover everything from Country to Classical, Easy Listening to Pop. Our speech-based programmes include Hospital News which gives you all the latest information from organisations and people from the OUH NHS Trust</p> <p>Listen out for our flagship children’s shows on Tuesdays and Saturdays, take part in our quizzes or send your requests and dedications.</p><p>For further information, how to volunteer with us, or if you’d like to make a donation, please visit our website: www.radiocherwell.com</p>",
+    "streams" : [
+        {
+            "streamURLtrial" : "http://uk6.internet-radio.com:8144/listen.pls&t=.m3u",
+            "streamURL" : "http://uk6.internet-radio.com:8144/stream",
+            "twitterURL" : "radiocherwell",
+            "stationName" : "Radio Cherwell",
+            "email" : "requests@radiocherwell.com"
+        }
+    ]
+    
+    
+}
