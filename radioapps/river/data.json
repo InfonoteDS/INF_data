@@ -8,6 +8,12 @@
     "barColor" : "#6F81B9",
     "barIconColor" : "#FFFFFF",
     "sponsor" : {
+        "logo" : "https://ids.infonote.com/RadioService/radioapps/river/cardwell.jpg",
+        "website" : "http://cardwellgardencentre.co.uk/",
+        "name" : "Cardwell Garden Centre",
+        "title" : "Cardwell Garden Centre"
+    },
+    "sponsor1" : {
         "logo" : "https://ids.infonote.com/RadioService/radioapps/river/argyll.jpg",
         "website" : "http://houseofargyll.com/",
         "name" : "House Of Argyll",
