@@ -10,8 +10,8 @@
     
     "streams" : [
         {
-	    "streamURL" : "http://eclipse.galaxywebsolutions.com:7722/stream",
-            "streamURLi1" : "http://46.28.49.164:7722/stream/",
+	    "streamURL_n" : "http://eclipse.galaxywebsolutions.com:7722/stream",
+            "streamURL" : "http://46.28.49.164:7722/stream/",
             "streamURL_old" : "http://149.255.59.164:8098/",
             "twitterURL" : "moorlandsradio",
             "stationName" : "Moorlands Radio",
