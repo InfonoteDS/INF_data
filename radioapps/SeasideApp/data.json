@@ -1,0 +1,21 @@
+{
+    "active" : true,
+    "stationNumber" : "01964611617",
+    "hasMultiStation" : false,
+    "backgroundColor" : "#FFFFFF",
+    "foregroundColor" : "#5758A0",
+
+    "barColor" : "#151578",
+    "barIconColor" : "#C7C9E4",
+
+    "streams" : [
+        {
+            "streamURL" : "https://my.superstreaming.co.uk/8068/seasidefm",
+            "streamURLOld" : "http://live.audiospace.co/seasidefm",
+            "twitterURL" : "seaside1053",
+            "stationName" : "Seaside FM",
+            "email" : "contact@seasideradio.co.uk"
+        }
+    ]
+}
+

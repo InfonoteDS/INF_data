@@ -1,0 +1,23 @@
+{
+    "active" : true,
+    "stationNumber" : "01904808121",
+    "hasMultiStation" : false,
+    "backgroundColor" : "#FFFFFF",
+    "foregroundColor" : "#3E6BCE",
+    
+    "barColor" : "#190361",
+    "barIconColor" : "#ECF2FB",
+    
+    "streams" : [
+        {
+            "streamURLOld" : "http://149.255.59.162:8026/stream",
+            "streamURL" : "https://my.superstreaming.co.uk/8064/greatyorkshire",
+            "twitterURL" : "greatyorksradio",
+            "stationName" : "Great Yorkshire Radio",
+            "stationAppName" : "Great Yorkshire Radio",
+            "email" : "contact@greatyorkshireradio.co.uk"
+        }
+    ],
+    "about" : "<p>Great Yorkshire Radio - your all time great music station across North Yorkshire & beyond.</p>"
+}
+
