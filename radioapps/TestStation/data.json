@@ -1,0 +1,21 @@
+{
+    "active" : true,
+    "stationNumber" : "newnumber",
+    "hasMultiStation" : false,
+    "backgroundColor" : "#FFFFFF",
+    "foregroundColor" : "#333333",
+
+    "barColor" : "#942A2B",
+    "barIconColor" : "#F8F1F1",
+
+    "streams" : [
+        {
+            "streamURL" : "http://icecast.maxxwave.co.uk/hfmhq",
+            "twitterURL" : "InfonoteDS",
+            "stationName" : "My Special Radio",
+            "stationAppName" : "Harborough FM",
+            "email" : "studio@infonote.com"
+        }
+    ]
+}
+
