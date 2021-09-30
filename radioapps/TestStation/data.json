@@ -10,7 +10,8 @@
 
     "streams" : [
         {
-            "streamURL" : "http://icecast.maxxwave.co.uk/hfmhq",
+            "streamURL" : "http://webradio.radiomonitor.com/stream/HHR",
+            "invalidstreamURL" : "http://icecast.maxxwave.co.uk/hfmhq",
             "twitterURL" : "InfonoteDS",
             "stationName" : "My Special Radio",
             "stationAppName" : "Harborough FM",
