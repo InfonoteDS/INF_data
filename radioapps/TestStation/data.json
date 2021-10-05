@@ -8,6 +8,15 @@
     "barColor" : "#942A2B",
     "barIconColor" : "#F8F1F1",
 
+    "sponsor" : {
+        "logo" : "https://ids.infonote.com/RadioService/radioapps/HFMApp/sponsor.jpg",
+        "website" : "https://mhbs.co.uk/",
+        "name" : "Market Harborough Building Society",
+        "title" : "Your Local Building Society...",
+        "bannerColor" : "#C30044"
+    },
+
+
     "streams" : [
         {
             "streamURL" : "http://webradio.radiomonitor.com/stream/HHR",
