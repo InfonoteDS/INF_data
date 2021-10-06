@@ -1,9 +1,9 @@
 {
-    "active" : false,
+    "active" : true,
     "stationNumber" : "07978 111111",
     "donationsURL" : "https://www.infonote.com",
     "hasMultiStation" : false,
-    "backgroundColor" : "#FF00FF",
+    "backgroundColor" : "#FFFFFF",
     "foregroundColor" : "#333333",
 
     "barColor" : "#942A2B",
