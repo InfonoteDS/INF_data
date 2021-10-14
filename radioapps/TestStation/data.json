@@ -20,6 +20,7 @@
 
     "streams" : [
         {
+            "useFreeStreamer" : true,
             "streamURL" : "http://webradio.radiomonitor.com/stream/HHR",
             "invalidstreamURL" : "http://icecast.maxxwave.co.uk/hfmhq",
             "twitterURL" : "InfonoteDS",
