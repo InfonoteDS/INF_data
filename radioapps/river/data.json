@@ -7,11 +7,25 @@
     
     "barColor" : "#6F81B9",
     "barIconColor" : "#FFFFFF",
+    "sponsor" : {
+        "logo" : "https://ids.infonote.com/RadioService/radioapps/river/cardwell.png",
+        "website" : "http://cardwellgardencentre.co.uk/",
+        "name" : "Cardwell Garden Centre",
+        "title" : "Cardwell Garden Centre"
+    },
+    "sponsor1" : {
+        "logo" : "https://ids.infonote.com/RadioService/radioapps/river/argyll.jpg",
+        "website" : "http://houseofargyll.com/",
+        "name" : "House Of Argyll",
+        "title" : "Scotland's Premier Kiltmakers"
+    },
+
     
-    "about" : "<P>Lomond Radio is a grass-roots movement to give people in the local community a voice. MUSIC: What is a station without music! Our volunteers come from a wide range of music interests and ages, Our plan is to have a little something for everyone.  SUPPORT: Our overall goal is to support the local community and be the next voice for Alexandia and surrounding areas! Live and Local 24/7 </P>",
+    "about" : "<P>River Radio is a grass-roots movement to give people in the local community a voice. MUSIC: What is a station without music! Our volunteers come from a wide range of music interests and ages, Our plan is to have a little something for everyone.  SUPPORT: Our overall goal is to support the local community and be the next voice for Alexandia and surrounding areas! Live and Local 24/7 </P>",
     "streams" : [
         {
-            "streamURL" : "https://s4.radio.co/s7d3ee0b08/listen",
+	    "streamURL" : "https://playoutonestreaming.com/proxy/riverradio?mp=/stream",
+            "oldstreamURL" : "https://s4.radio.co/s7d3ee0b08/listen",
             "stationName" : "Lomond Radio Live",
             "stationAppName" : "Lomond Radio Live",
 	    "twitterURL" : "",
