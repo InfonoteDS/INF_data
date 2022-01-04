@@ -1,0 +1,23 @@
+{
+    "active" : false,
+    "stationNumber" : "01296854321",
+    "hasMultiStation" : false,
+    "backgroundColor" : "#FFFFFF",
+    "foregroundColor" : "#000000",
+    
+    "barColor1" : "#1D2DCE",
+    "barColor" : "#00AAFF",
+    "barIconColor" : "#FFFFFF",
+    
+    "about" : "<P>Community Radio for Aylesbury</P><P>Bringing back unity to the community.</P>",
+    "streams" : [
+        {
+            "streamURL" : "http://ec1.yesstreaming.net:2500/stream",
+            "stationName" : "Aylesbury One",
+            "stationAppName" : "Aylesbury One",
+	    "twitterURL" : "",
+            "email" : "studio@aylesbury.one"
+        }
+    ]
+}
+
