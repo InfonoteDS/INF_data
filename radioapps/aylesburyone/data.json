@@ -1,5 +1,5 @@
 {
-    "active" : false,
+    "active" : true,
     "stationNumber" : "01296854321",
     "hasMultiStation" : false,
     "backgroundColor" : "#FFFFFF",
@@ -7,7 +7,7 @@
     
     "barColortest" : "#1D0000",
     "barColor" : "#00AAFF",
-    "barIconColor" : "#FFFFFF",
+    "barIconColor" : "#00FFFF",
 
     "sponsornone" : {
         "logo" : "https://ids.infonote.com/RadioService/radioapps/HFMApp/sponsor1.jpg",
