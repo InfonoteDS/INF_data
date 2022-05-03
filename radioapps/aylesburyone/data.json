@@ -23,7 +23,7 @@
             "streamURL" : "http://ec1.yesstreaming.net:2500/stream",
             "stationName" : "Aylesbury One",
             "stationAppName" : "Aylesbury One",
-	    "twitterURL" : "",
+	    "twitterURL" : "test",
             "email" : "studio@aylesbury.one"
         }
     ]
