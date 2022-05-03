@@ -5,9 +5,17 @@
     "backgroundColor" : "#FFFFFF",
     "foregroundColor" : "#000000",
     
-    "barColor1" : "#1D2DCE",
-    "barColor" : "#00AAFF",
+    "barColor" : "#1D0000",
+    "barColorreal" : "#00AAFF",
     "barIconColor" : "#FFFFFF",
+
+    "sponsor" : {
+        "logo" : "https://ids.infonote.com/RadioService/radioapps/HFMApp/sponsor1.jpg",
+        "website" : "https://www.spectrum-health.co.uk/",
+        "name" : "Spectrum Health",
+        "title" : "Accepting new NHS patients..."
+    },
+
     
     "about" : "<P>Community Radio for Aylesbury</P><P>Bringing back unity to the community.</P>",
     "streams" : [
