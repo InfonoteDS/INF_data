@@ -1,15 +1,15 @@
 {
-    "active" : true,
+    "active" : false,
     "stationNumber" : "01296854321",
     "hasMultiStation" : false,
     "backgroundColor" : "#FFFFFF",
     "foregroundColor" : "#000000",
     
-    "barColor" : "#1D0000",
-    "barColorreal" : "#00AAFF",
+    "barColortest" : "#1D0000",
+    "barColor" : "#00AAFF",
     "barIconColor" : "#FFFFFF",
 
-    "sponsor" : {
+    "sponsornone" : {
         "logo" : "https://ids.infonote.com/RadioService/radioapps/HFMApp/sponsor1.jpg",
         "website" : "https://www.spectrum-health.co.uk/",
         "name" : "Spectrum Health",
