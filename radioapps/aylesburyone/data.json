@@ -1,5 +1,5 @@
 {
-    "active" : true,
+    "active" : false,
     "stationNumber" : "01296854321",
     "hasMultiStation" : false,
     "backgroundColor" : "#FFFFFF",
@@ -7,14 +7,7 @@
     
     "barColortest" : "#1D0000",
     "barColor" : "#00AAFF",
-    "barIconColor" : "#00FFFF",
-
-    "sponsornone" : {
-        "logo" : "https://ids.infonote.com/RadioService/radioapps/HFMApp/sponsor1.jpg",
-        "website" : "https://www.spectrum-health.co.uk/",
-        "name" : "Spectrum Health",
-        "title" : "Accepting new NHS patients..."
-    },
+    "barIconColor" : "#FFFFFF",
 
     
     "about" : "<P>Community Radio for Aylesbury</P><P>Bringing back unity to the community.</P>",
@@ -23,7 +16,7 @@
             "streamURL" : "http://ec1.yesstreaming.net:2500/stream",
             "stationName" : "Aylesbury One",
             "stationAppName" : "Aylesbury One",
-	    "twitterURL" : "test",
+	    "twitterURL" : "",
             "email" : "studio@aylesbury.one"
         }
     ]
