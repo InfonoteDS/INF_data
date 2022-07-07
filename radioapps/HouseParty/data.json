@@ -12,7 +12,8 @@
     "streams" : [
         {
             "oldstreamURL" : "http://92.232.224.251:8000/stream",
-            "streamURL" : "http://162.244.80.106:11482/stream",
+            "streamURL" : "https://www.housepartyradio.net/stream/aac/secure/safe/?from=hprapp-infonote"
+            "oldstreamURL" : "http://162.244.80.106:11482/stream",
             "twitterURL" : "",
             "stationName" : "House Party Radio",
             "email" : "studio@housepartyradio.net"
