@@ -16,7 +16,8 @@
     },
     "streams" : [
         {
-            "streamURL" : "http://streaming.broadcastradio.com:10020/lifecare",
+            "streamURL" : "https://streaming.broadcast.radio/lifecare",
+            "streamURLOld" : "http://streaming.broadcastradio.com:10020/lifecare",
             "twitterURL" : "LifeCareRadio",
             "stationName" : "Life Care Radio",
             "email" : "studio@lifecareradio.org.uk"
