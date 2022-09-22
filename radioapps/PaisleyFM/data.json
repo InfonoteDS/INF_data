@@ -3,17 +3,19 @@
     "stationNumber" : "01418897396",
     "hasMultiStation" : false,
     "backgroundColor" : "#FFFFFF",
-    "foregroundColor" : "#933732",
+    "foregroundColor" : "#501585",
     
-    "barColor" : "#933732",
+    "barColor" : "#501585",
     "barIconColor" : "#ffffff",
+    "about" : "<p>Enjoy your local community radio station, Quality Radio for Renfrewshire and Glasgow, wherever you are in the world</p>",
+
 
     "streams" : [
         {
             "streamURL" : "http://radio.canstream.co.uk:8123/live.mp3",
-            "twitterURL" : "PaisleyFM",
-            "stationName" : "Paisley FM 107.5",
-            "email" : "studio@paisleyfm.co.uk"
+            "twitterURL" : "qualityradiouk",
+            "stationName" : "Quality Radio",
+            "email" : "admin@qualityradio.uk"
         }
     ]
 }
