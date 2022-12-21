@@ -11,7 +11,7 @@
     "streams" : [
         {
             "streamURL" : "http://radio.canstream.co.uk:8031/live.mp3",
-            "twitterURL" : " AppleFMTaunton",
+            "twitterURL" : "AppleFMTaunton",
             "stationName" : "Apple FM",
             "email" : "studio@applefm.co.uk"
         }
