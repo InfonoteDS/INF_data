@@ -1,0 +1,20 @@
+{
+    "active" : true,
+    "stationNumber" : "01823342591",
+    "hasMultiStation" : false,
+    "backgroundColor" : "#FFFFFF",
+    "foregroundColor" : "#333333",
+    
+    "barColor" : "#942A2B",
+    "barIconColor" : "#F8F1F1",
+    
+    "streams" : [
+        {
+            "streamURL" : "http://radio.canstream.co.uk:8031/live.mp3",
+            "twitterURL" : " AppleFMTaunton",
+            "stationName" : "Apple FM",
+            "email" : "studio@applefm.co.uk"
+        }
+    ]
+}
+
