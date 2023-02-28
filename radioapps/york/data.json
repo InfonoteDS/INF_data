@@ -1,0 +1,24 @@
+{
+    "active" : true,
+    "stationNumber" : "01904628800",
+    "hasMultiStation" : false,
+    "backgroundColor" : "#FFFFFF",
+    "foregroundColor" : "#AA0000",
+    
+    "barColor" : "#FF0000",
+    "barIconColor" : "#FFFFFF",
+    "donationsURL" : "https://www.justgiving.com/yorkhospitalradio",
+    
+    "about" : "<P>York Hospital Radio - the voluntary radio service broadcasting online and via Hospedia 24 hours a day to the patients, visitors and staff in York Hospital.</>",
+    "streams" : [
+        {
+            "streamURL" : "https://my.superstreaming.co.uk:7039/stream",
+            "streamURLOLD" : "http://149.255.59.3:8019/stream",
+            "stationName" : "York Hospital Radio",
+            "stationAppName" : "York Hospital Radio",
+	    "twitterURL" : "yorkhospradio",
+            "email" : "studio@yorkhospitalradio.com"
+        }
+    ]
+}
+
