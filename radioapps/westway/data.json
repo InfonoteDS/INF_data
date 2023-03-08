@@ -10,7 +10,8 @@
 
     "streams" : [
         {
-            "streamURL" : "http://streamingr.broadcastradio.com:10280/westway",
+            "streamURL" : "https://stream.rcs.revma.com/8cfhbtyx2duvv",
+            "streamURLold" : "http://streamingr.broadcastradio.com:10280/westway",
             "twitterURL" : "westwayradio",
             "stationName" : "Westway Radio Arbroath",
             "email" : "studio@westwayradio.co.uk"
