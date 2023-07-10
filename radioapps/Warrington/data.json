@@ -18,7 +18,8 @@
 
     "streams" : [
         {
-            "streamURL" : "http://stream.dnsgb.net:8002",
+            "streamURLOLD" : "http://stream.dnsgb.net:8002",
+            "streamURL" : "https://playoutonestreaming.com/proxy/warrington?mp=/stream",
             "twitterURL" : "radiowarrington",
             "stationName" : "Radio Warrington",
             "email" : "onair@radiowarrington.co.uk",
