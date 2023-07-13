@@ -10,7 +10,7 @@
 
     "streams" : [
         {
-            "streamURL" : "https://my.superstreaming.co.uk/8068/seasidefm",
+            "streamURL" : "https://stream1.superstreaming.co.uk/proxy/seasidefm/seasidefm",
             "streamURLOld" : "http://live.audiospace.co/seasidefm",
             "twitterURL" : "seaside1053",
             "stationName" : "Seaside FM",
