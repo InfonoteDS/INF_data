@@ -1,0 +1,23 @@
+{
+    "active" : true,
+    "stationNumber" : "01392279755",
+    "hasMultiStation" : false,
+    "backgroundColor" : "#FEFFFF",
+    "foregroundColor" : "#2A8AC9",
+    
+    "barColor" : "#2A8AC9",
+    "barIconColor" : "#FEFFFF",
+    "donationsURL" : "https://donate.giveasyoulive.com/donate?cid=279125",
+    "about" : "<P>Hospital Radio Exeter has been broadcasting from their studio at the Royal Devon and Exeter Hospital (Wonford) since 1974.</P><P>Hospital Radio Exeter is a registered charity and the station is financed entirely by the fund raising activities of its members and supporters.</P><P>Our programmes range from 60s to Classical, Soul to Country and of course the famous regular weekday request show at 8pm.</P><P>Our members go out on the wards collecting requests and bringing you your choice of music.  Plus every Sunday Morning we bring a live Chapel service from the Hospital Chapel.</P><P>All the members of Hospital Radio Exeter are volunteers and range from 18 to 75.</P><P>Registered Charity No. 275044</P>",
+    "streams" : [
+        {
+            "streamURL" : "https://uk4-vn.mixstream.net/8130/listen.mp3",
+            "stationName" : "Hospital Radio Exeter",
+            "stationAppName" : "Hospital Radio Exeter",
+            "facebookPage" : "HospitalRadioExeter",
+	    "twitterURL" : "HRExeter",
+            "email" : "requestshow@aol.com"
+        }
+    ]
+}
+
