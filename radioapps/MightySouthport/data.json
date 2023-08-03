@@ -1,0 +1,32 @@
+{
+        "active" : true,
+        "stationNumber" : "",
+        "hasMultiStation" : true,
+        "backgroundColor" : "#020101",
+        "foregroundColor" : "#A78349",
+        
+        "barColor" : "#886e4e",
+        "barIconColor" : "#be9e6a",
+        "website" : "http://www.mightyradio.co.uk",
+
+        "streams" : [
+            {
+                "substationId" : 1,
+                "streamURL" : "http://titan.shoutca.st:8218/:stream.mp3",
+                "twitterURL" : "mightyradiofm",
+                "facebookPage" : "MightyFm",
+                "stationName" : "Mighty Radio : Southport",
+                "stationAppName" : "Mighty Radio",
+                "email" : "studio@mightyradio.co.uk"
+            },
+            {
+                "substationId" : 2,
+                "streamURL" : "http://proxima.shoutca.st:8122/;stream.mp3",
+                "twitterURL" : "mightyradiofm",
+                "facebookPage" : "mightyradioleeds",
+                "stationName" : "Mighty Radio : Leeds",
+                "stationAppName" : "Mighty Radio",
+                "email" : "studio@mightyradio.co.uk"
+            }
+        ]
+}
