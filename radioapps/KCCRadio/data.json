@@ -1,0 +1,20 @@
+{
+    "active" : false,
+    "stationNumber" : "01514814614",
+    "hasMultiStation" : false,
+    "backgroundColor" : "#010101",
+    "foregroundColor" : "#ADADAD",
+    
+    "barColor" : "#BD236F",
+    "barIconColor" : "#FEFEFE",
+    
+    "streams" : [
+        {
+            "streamURL" : "http://play.kcclive.com:8000/listen.mp3",
+            "twitterURL" : "KCCLIVE",
+            "stationName" : "KCC Live",
+            "email" : "getintouch@kcclive.com"
+        }
+    ]
+}
+
