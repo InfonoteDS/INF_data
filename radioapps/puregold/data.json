@@ -1,5 +1,5 @@
 {
-    "active" : false,
+    "active" : true,
     "stationNumber" : "07989700006",
     "hasMultiStation" : false,
     "backgroundColor" : "#000000",
@@ -16,7 +16,7 @@
             "stationName" : "Pure Gold UK",
             "stationAppName" : "Pure Gold UK Radio",
 	    "twitterURL" : "PureGoldUK1",
-            "email" : "studio@puregolduk.net"
+            "email" : "studio@buttercross.uk"
         }
     ]
 }
