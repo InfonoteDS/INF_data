@@ -1,0 +1,23 @@
+{
+    "active" : false,
+    "stationNumber" : "07989700006",
+    "hasMultiStation" : false,
+    "backgroundColor" : "#000000",
+    "foregroundColor" : "#FFFFFF",
+    
+    "barColor1" : "#1D2DCE",
+    "barColor" : "#D5A93C",
+    "barIconColor" : "#F1F1F8",
+    
+    "about" : "<P>Pure Gold Uk plays the greatest hits and fondest memories. We are based in the small market town of Market Drayton which is in North Shropshire in the United Kingdom.  We broadcast 24/7 and provide  music which we like to think sums up the name Gold.  We cover all genres from the 50s right through to the 00's and cover everything from Northern Soul to Country the Decades 60s 70s 80s to just really good music our listeners love.  Please send in your requests  at any time including during the show  using the app or emailing the presenters name @puregolduk.net.</P><P>Thanks for choosing Pure Gold Radio Uk   Music radio at its best!</P><P>Mike Smith Station Manager</P>",
+    "streams" : [
+        {
+            "streamURL" : "https://c22.radioboss.fm:18177/stream",
+            "stationName" : "Pure Gold UK",
+            "stationAppName" : "Pure Gold UK Radio",
+	    "twitterURL" : "PureGoldUK1",
+            "email" : "studio@puregolduk.net"
+        }
+    ]
+}
+
