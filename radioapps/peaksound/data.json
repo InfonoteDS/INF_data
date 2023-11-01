@@ -1,0 +1,23 @@
+{
+    "active" : false,
+    "stationNumber" : "07966164301",
+    "hasMultiStation" : false,
+    "backgroundColor" : "#FFFFFF",
+    "foregroundColor" : "#333333",
+    "barColor" : "#9B0808",
+    "barIconColor" : "#FFFFFF",
+    "about" : "<P>Local Radio for the High Peak & Derbyshire Dales. Local Radio for Local People by Local People.</P>",
+
+    "streams" : [
+        {
+
+            "streamURL" : "https://stream.galaxywebsolutions.com/proxy/peaksoun?mp=/stream",
+            "twitterURL" : "",
+            "stationName" : "Peak Sound Radio",
+            "email" : "studio@peaksoundradio.co.uk"
+        }
+    ]
+
+
+}
+
