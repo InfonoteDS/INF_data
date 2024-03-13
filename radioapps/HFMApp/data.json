@@ -21,8 +21,7 @@
             "streamURL" : "https://listen-harboroughfm.sharp-stream.com/harboroughfm.mp3",
             "streamURLold" : "http://tx.sharp-stream.com/icecast.php?i=harboroughfm.mp3",
             "twitterURL" : "hfmnews",
-            "facebookPage" : "",
-            "facebookPageold" : "harboroughfm",
+            "facebookPage" : "harboroughfm",
             "stationName" : "HFM",
             "email" : "studio@harboroughfm.co.uk"
         }
