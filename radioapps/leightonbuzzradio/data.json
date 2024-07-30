@@ -1,0 +1,22 @@
+{
+    "active" : true,
+    "stationNumber" : "01525567833",
+    "hasMultiStation" : false,
+    "backgroundColor" : "#FFFFFF",
+    "foregroundColor" : "#F35EAF",
+    
+    "barColor" : "#F35EAF",
+    "barIconColor" : "#F8F8F8",
+    
+    "about" : "<p>We are all about the Leighton Buzzard area but that doesn't mean we don't LOVE great music. As well as delivering news and events in our area our volunteer presenters deliver fantastic niche music shows too and when that is not happening you can listen to our Buzzing Music Mix of hits.</p>.</p>",
+    "streams" : [
+        {
+            "streamURL" : "https://stream.aiir.com/jwdimeg4mtvuv",
+            "streamURLold" : "http://playoutonestreaming.com:8032",
+            "twitterURL" : "LBbuzzRadio",
+            "stationName" : "Leighton Buzz Radio",
+            "stationAppName" : "Leighton Buzz Radio",
+            "email" : "studio@leightonbuzzradio.co.uk"
+        }
+    ]
+}
