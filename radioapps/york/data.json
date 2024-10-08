@@ -16,7 +16,7 @@
             "streamURLOLD" : "https://my.superstreaming.co.uk:7039/stream",
             "stationName" : "York Hospital Radio",
             "stationAppName" : "York Hospital Radio",
-	    "twitterURL" : "yorkhospradio",
+	    "twitterURL_old" : "yorkhospradio",
             "email" : "studio@yorkhospitalradio.com"
         }
     ]

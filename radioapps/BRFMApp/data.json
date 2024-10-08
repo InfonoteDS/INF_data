@@ -11,7 +11,7 @@
     "streams" : [
         {
             "streamURL" : "https://mediacp.nkpa.co.uk/stream/brfm/BRFM",
-            "twitterURL" : "956brfm",
+            "twitterURL_old" : "956brfm",
             "stationName" : "BRFM",
             "email" : "studio@brfm.net"
         }

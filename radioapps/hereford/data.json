@@ -21,7 +21,7 @@
             "streamURL" : "http://webradio.radiomonitor.com/stream/HHR",
             "stationName" : "Hereford HR",
             "stationAppName" : "Hereford HR",
-	    "twitterURL" : "herefordhradio",
+	    "twitterURL_old" : "herefordhradio",
             "email" : "app@hhr.org.uk"
         }
     ]

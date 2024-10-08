@@ -15,8 +15,8 @@
             "streamURL" : "https://c22.radioboss.fm:18177/stream",
             "stationName" : "Buttercross Radio",
             "stationAppName" : "Buttercross Radio",
-            "facebookPage" : "ButtterCross.Radio",
-            "twitterURL" : "ButtterCross.Radio",
+            "facebookPage_old" : "ButtterCross.Radio",
+            "twitterURL_old" : "ButtterCross.Radio",
             "email" : "studio@buttercross.uk"
         }
     ]

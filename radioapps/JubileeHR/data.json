@@ -18,7 +18,7 @@
             "streamURL" : "https://jubileehr.radioca.st/stream",
             "streamURLOLD" : "http://s4.xrad.io:8056",
             "useFreeStreamer" : true,
-            "twitterURL" : "JubileeRadio",
+            "twitterURL_old" : "JubileeRadio",
             "stationName" : "Jubilee Hospital Radio",
             "email" : "studio@jubileeradio.org"
         }

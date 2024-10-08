@@ -21,7 +21,7 @@
             "streamURL" : "http://uk3-vn.mixstream.net:8088/listen.mp3",
             "stationName" : "Tarka Radio",
             "stationAppName" : "Tarka Radio",
-	    "twitterURL" : "tarkaradio",
+	    "twitterURL_old" : "tarkaradio",
             "email" : "requests@tarkaradio.co.uk"
         }
     ]

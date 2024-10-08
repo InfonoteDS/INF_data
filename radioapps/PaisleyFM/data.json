@@ -13,7 +13,7 @@
     "streams" : [
         {
             "streamURL" : "http://radio.canstream.co.uk:8123/live.mp3",
-            "twitterURL" : "qualityradiouk",
+            "twitterURL_old" : "qualityradiouk",
             "stationName" : "Quality Radio",
             "email" : "admin@qualityradio.uk"
         }

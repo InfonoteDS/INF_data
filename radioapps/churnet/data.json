@@ -16,7 +16,7 @@
             "streamURL" : "http://46.28.49.164:7592/stream",
             "stationName" : "Churnet Sound",
             "stationAppName" : "Churnet Sound",
-	    "twitterURL" : "ChurnetSound",
+	    "twitterURL_old" : "ChurnetSound",
             "email" : "churnet.sound@gmail.com"
         }
     ]

@@ -13,8 +13,8 @@
             {
                 "substationId" : 1,
                 "streamURL" : "http://titan.shoutca.st:8218/:stream.mp3",
-                "twitterURL" : "mightyradiofm",
-                "facebookPage" : "MightyFm",
+                "twitterURL_old" : "mightyradiofm",
+                "facebookPage_old" : "MightyFm",
                 "stationName" : "Mighty Radio : Southport",
                 "stationAppName" : "Mighty Radio",
                 "email" : "studio@mightyradio.co.uk"
@@ -22,8 +22,8 @@
             {
                 "substationId" : 2,
                 "streamURL" : "http://proxima.shoutca.st:8122/;stream.mp3",
-                "twitterURL" : "mightyradiofm",
-                "facebookPage" : "mightyradioleeds",
+                "twitterURL_old" : "mightyradiofm",
+                "facebookPage_old" : "mightyradioleeds",
                 "stationName" : "Mighty Radio : Leeds",
                 "stationAppName" : "Mighty Radio",
                 "email" : "studio@mightyradio.co.uk"

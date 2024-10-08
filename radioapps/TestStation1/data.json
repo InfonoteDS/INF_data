@@ -23,7 +23,7 @@
             "useFreeStreamer" : true,
             "streamURL" : "http://webradio.radiomonitor.com/stream/HHR",
             "invalidstreamURL" : "http://icecast.maxxwave.co.uk/hfmhq",
-            "twitterURL" : "InfonoteDS",
+            "twitterURL_old" : "InfonoteDS",
             "stationName" : "My Special Radio",
             "stationAppName" : "Harborough FM",
             "email" : "studio@infonote.com"

@@ -13,8 +13,8 @@
             "streamURLOld" : "http://149.255.59.162:8026/stream",
             "streamURL_expected" : "https://my.superstreaming.co.uk/8064/greatyorkshire",
             "streamURL" : "https://stream1.superstreaming.co.uk/proxy/greatyorkshire/stream",
-            "twitterURL" : "greatyorksradio",
-            "facebookPage" : "GreatYorkshireRadio",
+            "twitterURL_old" : "greatyorksradio",
+            "facebookPage_old" : "GreatYorkshireRadio",
             "stationName" : "Great Yorkshire Radio",
             "stationAppName" : "Great Yorkshire Radio",
             "email" : "contact@greatyorkshireradio.co.uk"

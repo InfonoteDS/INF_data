@@ -14,7 +14,7 @@
             "streamURL" : "https://radio.canstream.co.uk:9129/live.mp3",
             "stationName" : "Jambo! Radio",
             "stationAppName" : "Jambo Radio",
-        "twitterURL" : "JamboRadio1",
+        "twitterURL_old" : "JamboRadio1",
             "email" : "info@jamboradio.co.uk"
         }
     ]

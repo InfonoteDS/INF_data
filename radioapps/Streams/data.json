@@ -15,7 +15,7 @@
         {
             "streamURLtrial" : "http://uk6.internet-radio.com:8144/listen.pls&t=.m3u",
             "streamURL" : "http://uk6.internet-radio.com:8144/stream",
-            "twitterURL" : "radiocherwell",
+            "twitterURL_old" : "radiocherwell",
             "stationName" : "Radio Cherwell",
             "email" : "requests@radiocherwell.com"
         }
