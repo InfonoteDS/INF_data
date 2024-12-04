@@ -11,9 +11,9 @@
 
     "streams" : [
         {
-            "oldstreamURL" : "http://92.232.224.251:8000/stream",
             "streamURLnewold" : "https://www.housepartyradio.net/stream/aac/secure/safe/?from=hprapp-infonote",
-            "streamURL" : "https://s3.voscast.com:10665/source",
+            "oldstreamURL" : "https://s3.voscast.com:10665/source",
+            "streamURL" : "https://pantscloud.housepartyradio.net:8000/online.mp3",
             "twitterURL" : "",
             "stationName" : "House Party Radio",
             "email" : "studio@housepartyradio.net"
