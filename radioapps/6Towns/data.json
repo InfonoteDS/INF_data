@@ -1,0 +1,22 @@
+{
+    "active" : true,
+    "stationNumber" : "01782816362",
+    "hasMultiStation" : false,
+    "backgroundColor" : "#FFFFFF",
+    "foregroundColor" : "#838487",
+    
+    "barColor" : "#F26827",
+    "barIconColor" : "#FFB999",
+    
+    "streams" : [
+        {
+            "streamURL" : "https://stream.aiir.com/z7drhoivbpbuv",
+            "streamURLOLD" : "http://hyades.shoutca.st:8019/;stream.mp3",
+            "twitterURL" : "6TownsRadio",
+            "stationName" : "Six Towns Radio",
+            "email" : "studio@6towns.co.uk"
+        }
+    ]
+}
+
+
