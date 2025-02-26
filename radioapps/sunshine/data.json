@@ -1,0 +1,27 @@
+{
+    "active" : true,
+    "stationNumber" : "01934619252",
+    "hasMultiStation" : false,
+    "backgroundColor" : "#FFFFFF",
+    "foregroundColor" : "#AA0000",
+    
+    "barColor" : "#FF0000",
+    "barIconColor" : "#FFFFFF",
+    "sponsor" : {
+        "logo" : "https://ids.infonote.com/RadioService/radioapps/sunshine/sponsor.jpg",
+        "website" : "https://www.greenwaysgroundsmaintenance.co.uk/",
+        "name" : "Greenways Grounds Maintenance",
+        "title" : ""
+    },  
+
+    
+    "streams" : [
+        {
+            "streamURL" : "https://player.broadcast.radio/sunshinehospitalradio?autoplay=1",
+            "stationName" : "Sunshine Hospital Radio",
+            "stationAppName" : "Sunshine Hospital Radio",
+            "email" : "greenwaysgmoffice@gmail.com"
+        }
+    ]
+}
+
