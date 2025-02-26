@@ -3,9 +3,9 @@
     "stationNumber" : "01934619252",
     "hasMultiStation" : false,
     "backgroundColor" : "#FFFFFF",
-    "foregroundColor" : "#AA0000",
+    "foregroundColor" : "#141414",
     
-    "barColor" : "#FF0000",
+    "barColor" : "#2596be",
     "barIconColor" : "#FFFFFF",
     "sponsor" : {
         "logo" : "https://ids.infonote.com/RadioService/radioapps/sunshine/sponsor.jpg",
