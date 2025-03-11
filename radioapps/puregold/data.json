@@ -13,7 +13,7 @@
     "streams" : [
         {
             "streamURL" : "https://c30.radioboss.fm:9052/stream",
-            "streamURL_old" : "https://a4.asurahosting.com:6890/radio.mp3",
+            "streamURL_older" : "https://a4.asurahosting.com:6890/radio.mp3",
             "stationName" : "Buttercross Radio",
             "stationAppName" : "Buttercross Radio",
             "facebookPage_old" : "ButtterCross.Radio",
