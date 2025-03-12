@@ -18,7 +18,7 @@
     "about" : "<P>Hereford Hospital Radio has been broadcasting since 1972, following a project set up by the Herefordshire County Youth Service and Hereford Lions Club.  Over the years the station has been heard at many of the Herefordshire hospitals but now focuses its broadcasts at the County Hospital, where it has its studios.</P><P>Each year volunteers from the station attend many events around the county raising funds to keep the station on the air. Our volunteers efforts provide the majority of the funds to keep the station on the air.</P>",
     "streams" : [
         {
-            "streamURL" : "http://webradio.radiomonitor.com/stream/HHR",
+            "streamURL" : "http://webradio.radiomonitor.com/stream/HHRapp",
             "stationName" : "Hereford HR",
             "stationAppName" : "Hereford HR",
 	    "twitterURL_old" : "herefordhradio",
